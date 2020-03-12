@@ -1,1 +1,0 @@
-/usr/bin/g++-9  -g   CMakeFiles/yaml-cpp-parse.dir/parse.cpp.o  -o ../../../build/bin/parse ../../../build/lib/libyaml-cppd.a 

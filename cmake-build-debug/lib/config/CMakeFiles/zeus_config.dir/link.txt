@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../../build/lib/libzeus_config.a  CMakeFiles/zeus_config.dir/src/zeus_config.cpp.o
-/usr/bin/ranlib ../../build/lib/libzeus_config.a

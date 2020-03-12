@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../../build/lib/libzeus_thread.a  CMakeFiles/zeus_thread.dir/src/spsc_cirular_buffer.cpp.o
-/usr/bin/ranlib ../../build/lib/libzeus_thread.a

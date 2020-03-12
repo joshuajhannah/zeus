@@ -1,1 +1,0 @@
-/usr/bin/g++-9  -g   CMakeFiles/test_md.dir/test_book.cpp.o  -o ../../../build/test/test_md ../../../build/lib/libzeus_md.a -lgtest -lgtest_main ../../../build/lib/libzeus_core.a ../../../build/lib/libzeus_math.a ../../../build/lib/libzeus_system.a ../../../build/lib/libzeus_time.a 

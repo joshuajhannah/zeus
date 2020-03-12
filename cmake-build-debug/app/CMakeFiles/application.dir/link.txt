@@ -1,1 +1,0 @@
-/usr/bin/g++-9  -g   CMakeFiles/application.dir/main.cpp.o  -o ../build/bin/application 
