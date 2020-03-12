@@ -1,0 +1,1 @@
+/usr/bin/g++-9  -g   CMakeFiles/test_thread.dir/test_ring_buffer.cpp.o  -o ../../../build/test/test_thread ../../../build/lib/libzeus_thread.a -lgtest -lgtest_main ../../../build/lib/libzeus_system.a 

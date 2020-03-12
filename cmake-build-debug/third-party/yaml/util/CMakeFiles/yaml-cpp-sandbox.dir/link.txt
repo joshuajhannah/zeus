@@ -1,0 +1,1 @@
+/usr/bin/g++-9  -g   CMakeFiles/yaml-cpp-sandbox.dir/sandbox.cpp.o  -o ../../../build/bin/sandbox ../../../build/lib/libyaml-cppd.a 

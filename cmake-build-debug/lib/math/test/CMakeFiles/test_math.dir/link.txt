@@ -1,0 +1,1 @@
+/usr/bin/g++-9  -g   CMakeFiles/test_math.dir/test_utilities.cpp.o CMakeFiles/test_math.dir/test_fastmod.cpp.o CMakeFiles/test_math.dir/test_fixed.cpp.o  -o ../../../build/test/test_math ../../../build/lib/libzeus_math.a -lgtest -lgtest_main ../../../build/lib/libzeus_system.a 

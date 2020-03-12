@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../build/lib/libzeus_core.a  CMakeFiles/zeus_core.dir/src/order.cpp.o
+/usr/bin/ranlib ../../build/lib/libzeus_core.a

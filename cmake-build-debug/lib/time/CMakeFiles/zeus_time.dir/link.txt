@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../build/lib/libzeus_time.a  CMakeFiles/zeus_time.dir/src/time.cpp.o
+/usr/bin/ranlib ../../build/lib/libzeus_time.a

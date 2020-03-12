@@ -1,0 +1,6 @@
+add_subdirectory(core)
+add_subdirectory(math)
+add_subdirectory(md)
+add_subdirectory(time)
+add_subdirectory(thread)
+add_subdirectory(system)

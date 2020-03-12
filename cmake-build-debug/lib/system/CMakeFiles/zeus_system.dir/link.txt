@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../build/lib/libzeus_system.a  CMakeFiles/zeus_system.dir/src/system.cpp.o
+/usr/bin/ranlib ../../build/lib/libzeus_system.a

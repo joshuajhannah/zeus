@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../build/lib/libzeus_math.a  CMakeFiles/zeus_math.dir/src/utilities.cpp.o
+/usr/bin/ranlib ../../build/lib/libzeus_math.a

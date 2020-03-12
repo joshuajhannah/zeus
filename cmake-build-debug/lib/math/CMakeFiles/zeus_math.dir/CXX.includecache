@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/math/include/math/fixed.h
+cstdint
+-
+type_traits
+-
+limits
+-
+math/utilities.h
+../lib/math/include/math/math/utilities.h
+
+../lib/math/include/math/utilities.h
+cstdint
+-
+
+/home/jhannah/zeus/lib/math/src/utilities.cpp
+math/utilities.h
+/home/jhannah/zeus/lib/math/src/math/utilities.h
+math/fixed.h
+/home/jhannah/zeus/lib/math/src/math/fixed.h
+

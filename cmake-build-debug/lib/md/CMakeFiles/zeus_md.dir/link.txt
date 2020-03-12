@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../build/lib/libzeus_md.a  CMakeFiles/zeus_md.dir/src/book.cpp.o
+/usr/bin/ranlib ../../build/lib/libzeus_md.a

@@ -1,0 +1,40 @@
+/snap/clion/103/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc-9 -DCMAKE_CXX_COMPILER=/usr/bin/g++-9 -DENABLE_TESTS=ON -G "CodeBlocks - Unix Makefiles" /home/jhannah/zeus
+-- CMAKE_BINARY_DIR:         /home/jhannah/zeus/cmake-build-debug
+-- CMAKE_CURRENT_BINARY_DIR: /home/jhannah/zeus/cmake-build-debug
+-- CMAKE_SOURCE_DIR:         /home/jhannah/zeus
+-- CMAKE_CURRENT_SOURCE_DIR: /home/jhannah/zeus
+-- PROJECT_BINARY_DIR: /home/jhannah/zeus/cmake-build-debug
+-- PROJECT_SOURCE_DIR: /home/jhannah/zeus
+-- EXECUTABLE_OUTPUT_PATH: 
+-- LIBRARY_OUTPUT_PATH:     
+-- CMAKE_MODULE_PATH: /home/jhannah/zeus/cmake
+-- CMAKE_COMMAND: /snap/clion/103/bin/cmake/linux/bin/cmake
+-- CMAKE_ROOT: /snap/clion/103/bin/cmake/linux/share/cmake-3.15
+-- CMAKE_CURRENT_LIST_FILE: /home/jhannah/zeus/CMakeLists.txt
+-- CMAKE_CURRENT_LIST_LINE: 46
+-- CMAKE_INCLUDE_PATH: 
+-- CMAKE_LIBRARY_PATH: 
+-- CMAKE_SYSTEM: Linux-4.15.0-74-generic
+-- CMAKE_SYSTEM_NAME: Linux
+-- CMAKE_SYSTEM_VERSION: 4.15.0-74-generic
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- CMAKE_SKIP_RULE_DEPENDENCY: 
+-- CMAKE_SKIP_INSTALL_ALL_DEPENDENCY: 
+-- CMAKE_SKIP_RPATH: NO
+-- CMAKE_VERBOSE_MAKEFILE: ON
+-- CMAKE_SUPPRESS_REGENERATION: 
+-- CMAKE_C_FLAGS: 
+-- DEFAULT_COPTS: -Wall-Wextra-Wcast-qual-Wconversion-null-Wmissing-declarations-Woverlength-strings-Wpointer-arith-Wunused-local-typedefs-Wunused-result-Wvarargs-Wvla-Wwrite-strings-Wno-sign-compare-pipe-pthread-msse4-fconcepts-g-D_GLIBCXX_DEBUG-O0-g
+-- TEST_COPTS: -Wall-Wextra-Wcast-qual-Wconversion-null-Wmissing-declarations-Woverlength-strings-Wpointer-arith-Wunused-local-typedefs-Wunused-result-Wvarargs-Wvla-Wwrite-strings-Wno-sign-compare-pipe-pthread-msse4-fconcepts-g-Wno-conversion-null-Wno-missing-declarations-Wno-sign-compare-Wno-unused-function-Wno-unused-parameter-Wno-unused-private-field-Wno-conversion-null-Wno-missing-declarations-Wno-sign-compare-Wno-unused-function-Wno-unused-parameter-Wno-unused-private-field-D_GLIBCXX_DEBUG-O0-g
+-- CMAKE_BUILD_TYPE: Debug
+-- BUILD_SHARED_LIBS: 
+-- CMAKE_C_COMPILER: /usr/bin/gcc-9
+-- CMAKE_CXX_COMPILER: /usr/bin/g++-9
+-- CMAKE_AR: /usr/bin/ar
+-- CMAKE_RANLIB: /usr/bin/ranlib
+-- RUNTIME_OUTPUT_DIRECTORY: /home/jhannah/zeus/cmake-build-debug/build/test
+-- RUNTIME_OUTPUT_DIRECTORY: /home/jhannah/zeus/cmake-build-debug/build/test
+-- RUNTIME_OUTPUT_DIRECTORY: /home/jhannah/zeus/cmake-build-debug/build/test
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jhannah/zeus/cmake-build-debug

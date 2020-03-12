@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/time/include/time/types.h
+limits
+-
+chrono
+-
+
+/home/jhannah/zeus/lib/time/src/time.cpp
+time/types.h
+/home/jhannah/zeus/lib/time/src/time/types.h
+
